@@ -4,7 +4,7 @@ version = "1.0"
 dependencies = [
     "roslibpy~=1.2.1",
     "tqdm",
-    "scipy~=1.7.3"
+    "scipy"
 ]
 
 [build-system]
